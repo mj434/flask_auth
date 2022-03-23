@@ -10,7 +10,7 @@
 * [Developmental Deployment](https://kwilliam-dev.herokuapp.com/)
 
 ## Setting up CI/CD
-abcd
+
 The result of this will be that when you create a pull request to merge a branch to master, it will deploy to your
 heroku development app/dyno and when you merge or push to master on github, it will deploy the app to the production heroku
 app/dyno.
