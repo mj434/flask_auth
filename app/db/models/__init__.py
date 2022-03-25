@@ -6,8 +6,12 @@ from app.db import db
 from flask_login import UserMixin
 
 
+
+
+
+
 class User(UserMixin, db.Model):
-    __tablename__ = "users"
+    __tablename__ = 'users'
 
     id = db.Column(db.Integer, primary_key=True)
     email = db.Column(db.String(120), unique=True, nullable=False)
@@ -16,6 +20,8 @@ class User(UserMixin, db.Model):
     authenticated = db.Column(db.Boolean, default=False)
     registered_on = db.Column('registered_on', db.DateTime)
     active = db.Column('is_active', db.Boolean(), nullable=False, server_default='1')
+    # `roles` and `groups` are reserved words that *must* be defined
+    # on the `User` model to use group- or role-based authorization.
 
     def __init__(self, email, password):
         self.email = email
@@ -42,4 +48,3 @@ class User(UserMixin, db.Model):
 
     def __repr__(self):
         return '<User %r>' % self.email
-

@@ -5,7 +5,6 @@ from werkzeug.security import generate_password_hash
 from app.auth.forms import login_form, register_form, profile_form, security_form
 from app.db import db
 from app.db.models import User
-
 auth = Blueprint('auth', __name__, template_folder='templates')
 
 
@@ -81,6 +80,7 @@ def browse_users():
 
 @auth.route('/users/<int:user_id>')
 @login_required
+
 def retrieve_user(user_id):
     user = User.query.get(user_id)
     return render_template('profile_view.html', user=user)
@@ -146,8 +146,8 @@ def edit_profile():
         return redirect(url_for('auth.dashboard'))
     return render_template('profile_edit.html', form=form)
 
-@auth.route('/security', methods=['POST', 'GET'])
-def edit_security():
+@auth.route('/account', methods=['POST', 'GET'])
+def edit_account():
     user = User.query.get(current_user.get_id())
     form = security_form(obj=user)
     if form.validate_on_submit():
