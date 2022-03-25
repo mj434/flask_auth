@@ -12,8 +12,10 @@ class User(UserMixin, db.Model):
     id = db.Column(db.Integer, primary_key=True)
     email = db.Column(db.String(120), unique=True, nullable=False)
     password = db.Column(db.String(300), nullable=False, unique=True)
+    about = db.Column(db.String(300), nullable=True, unique=False)
     authenticated = db.Column(db.Boolean, default=False)
     registered_on = db.Column('registered_on', db.DateTime)
+    active = db.Column('is_active', db.Boolean(), nullable=False, server_default='1')
 
     def __init__(self, email, password):
         self.email = email
@@ -39,4 +41,5 @@ class User(UserMixin, db.Model):
         return check_password_hash(self.password, password)
 
     def __repr__(self):
-        return '<User %r>' % self.username
+        return '<User %r>' % self.email
+
