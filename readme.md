@@ -1,11 +1,11 @@
 # Project Setup
 
-[![Production Workflow](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml)
+[![Production Workflow 1](https://github.com/mj434/flask_auth/actions/workflows/prod.yml/badge.svg)](https://github.com/mj434/flask_auth/actions/workflows/prod.yml)
 
 * [Production Deployment](https://mj434-auth-prod.herokuapp.com/)
 
 
-[![Development Workflow](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/dev.yml)
+[![Development Workflow 3.8](https://github.com/mj434/flask_auth/actions/workflows/dev.yml/badge.svg)](https://github.com/mj434/flask_auth/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://mj434-auth-dev.herokuapp.com/)
 
@@ -51,3 +51,8 @@ app/dyno.
 * https://flask-user.readthedocs.io/en/latest/basic_app.html
 * https://hackersandslackers.com/flask-application-factory/
 * https://suryasankar.medium.com/a-basic-app-factory-pattern-for-production-ready-websites-using-flask-and-sqlalchemy-dbb891cdf69f
+* https://develie.hashnode.dev/exploring-flask-sqlalchemy-queries
+* https://wtforms.readthedocs.io/en/3.0.x/
+* https://bootstrap-flask.readthedocs.io/en/stable/
+* https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+* testfdafas
