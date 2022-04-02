@@ -1,0 +1,401 @@
+2022-03-29 16:35:29,924 INFO app Thread-3 : Info level log
+2022-03-29 16:35:29,925 WARNING app Thread-3 : Warning level log
+2022-03-29 16:35:30,175 INFO werkzeug Thread-3 : 172.29.0.1 - - [29/Mar/2022 16:35:30] "GET /users HTTP/1.1" 200 -
+2022-03-29 16:35:30,212 INFO werkzeug Thread-3 : 172.29.0.1 - - [29/Mar/2022 16:35:30] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:48:14,277 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 16:48:14] "GET /about HTTP/1.1" 200 -
+2022-03-29 16:48:15,123 INFO app Thread-4 : Info level log
+2022-03-29 16:48:15,123 WARNING app Thread-4 : Warning level log
+2022-03-29 16:48:15,130 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 16:48:15] "GET /users HTTP/1.1" 200 -
+2022-03-29 16:48:15,153 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 16:48:15] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:48:16,463 INFO werkzeug Thread-5 : 172.29.0.1 - - [29/Mar/2022 16:48:16] "GET /dashboard HTTP/1.1" 200 -
+2022-03-29 16:48:17,757 INFO app Thread-5 : Info level log
+2022-03-29 16:48:17,758 WARNING app Thread-5 : Warning level log
+2022-03-29 16:48:17,765 INFO werkzeug Thread-5 : 172.29.0.1 - - [29/Mar/2022 16:48:17] "GET /users HTTP/1.1" 200 -
+2022-03-29 16:48:17,788 INFO werkzeug Thread-5 : 172.29.0.1 - - [29/Mar/2022 16:48:17] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:52:57,256 INFO werkzeug Thread-6 : 172.29.0.1 - - [29/Mar/2022 16:52:57] "GET / HTTP/1.1" 200 -
+2022-03-29 16:53:15,833 INFO werkzeug Thread-7 : 172.29.0.1 - - [29/Mar/2022 16:53:15] "GET /welcome HTTP/1.1" 200 -
+2022-03-29 16:53:15,845 INFO werkzeug Thread-9 : 172.29.0.1 - - [29/Mar/2022 16:53:15] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-03-29 16:53:15,855 INFO werkzeug Thread-8 : 172.29.0.1 - - [29/Mar/2022 16:53:15] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-03-29 16:53:15,861 INFO werkzeug Thread-7 : 172.29.0.1 - - [29/Mar/2022 16:53:15] "[33mGET /welcome?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 404 -
+2022-03-29 16:53:15,858 INFO werkzeug Thread-10 : 172.29.0.1 - - [29/Mar/2022 16:53:15] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-03-29 16:53:16,472 INFO app Thread-7 : Info level log
+2022-03-29 16:53:16,473 WARNING app Thread-7 : Warning level log
+2022-03-29 16:53:16,479 INFO werkzeug Thread-7 : 172.29.0.1 - - [29/Mar/2022 16:53:16] "GET /users HTTP/1.1" 200 -
+2022-03-29 16:53:16,501 INFO werkzeug Thread-7 : 172.29.0.1 - - [29/Mar/2022 16:53:16] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:53:36,907 INFO werkzeug Thread-10 : 172.29.0.1 - - [29/Mar/2022 16:53:36] "GET /about HTTP/1.1" 200 -
+2022-03-29 16:53:36,913 INFO werkzeug Thread-8 : 172.29.0.1 - - [29/Mar/2022 16:53:36] "GET /about HTTP/1.1" 200 -
+2022-03-29 16:53:36,918 INFO werkzeug Thread-11 : 172.29.0.1 - - [29/Mar/2022 16:53:36] "GET /about HTTP/1.1" 200 -
+2022-03-29 16:53:37,844 INFO app Thread-11 : Info level log
+2022-03-29 16:53:37,844 WARNING app Thread-11 : Warning level log
+2022-03-29 16:53:37,851 INFO werkzeug Thread-11 : 172.29.0.1 - - [29/Mar/2022 16:53:37] "GET /users HTTP/1.1" 200 -
+2022-03-29 16:53:37,859 INFO werkzeug Thread-11 : 172.29.0.1 - - [29/Mar/2022 16:53:37] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:53:37,872 INFO werkzeug Thread-12 : 172.29.0.1 - - [29/Mar/2022 16:53:37] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:54:07,894 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:07] "GET /profile HTTP/1.1" 200 -
+2022-03-29 16:54:09,568 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:09] "GET /account HTTP/1.1" 200 -
+2022-03-29 16:54:11,231 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:11] "GET /about HTTP/1.1" 200 -
+2022-03-29 16:54:11,815 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:11] "GET /welcome HTTP/1.1" 200 -
+2022-03-29 16:54:11,826 INFO werkzeug Thread-14 : 172.29.0.1 - - [29/Mar/2022 16:54:11] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-03-29 16:54:11,836 INFO werkzeug Thread-15 : 172.29.0.1 - - [29/Mar/2022 16:54:11] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-03-29 16:54:11,837 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:11] "[33mGET /welcome?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 404 -
+2022-03-29 16:54:11,840 INFO werkzeug Thread-16 : 172.29.0.1 - - [29/Mar/2022 16:54:11] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-03-29 16:54:12,663 INFO app Thread-13 : Info level log
+2022-03-29 16:54:12,663 WARNING app Thread-13 : Warning level log
+2022-03-29 16:54:12,669 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:12] "GET /users HTTP/1.1" 200 -
+2022-03-29 16:54:12,678 INFO werkzeug Thread-13 : 172.29.0.1 - - [29/Mar/2022 16:54:12] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:54:12,692 INFO werkzeug Thread-14 : 172.29.0.1 - - [29/Mar/2022 16:54:12] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:54:12,700 INFO werkzeug Thread-17 : 172.29.0.1 - - [29/Mar/2022 16:54:12] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 16:54:13,600 INFO werkzeug Thread-18 : 172.29.0.1 - - [29/Mar/2022 16:54:13] "GET /dashboard HTTP/1.1" 200 -
+2022-03-29 17:00:11,742 INFO werkzeug Thread-19 : 172.29.0.1 - - [29/Mar/2022 17:00:11] "GET /dashboard HTTP/1.1" 200 -
+2022-03-29 17:04:27,278 INFO app Thread-20 : Info level log
+2022-03-29 17:04:27,279 WARNING app Thread-20 : Warning level log
+2022-03-29 17:04:27,288 INFO werkzeug Thread-20 : 172.29.0.1 - - [29/Mar/2022 17:04:27] "GET /users HTTP/1.1" 200 -
+2022-03-29 17:04:27,296 INFO werkzeug Thread-20 : 172.29.0.1 - - [29/Mar/2022 17:04:27] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 17:04:27,443 INFO werkzeug Thread-21 : 172.29.0.1 - - [29/Mar/2022 17:04:27] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-03-29 17:04:28,781 INFO werkzeug Thread-22 : 172.29.0.1 - - [29/Mar/2022 17:04:28] "GET /about HTTP/1.1" 200 -
+2022-03-29 17:04:30,250 INFO werkzeug Thread-22 : 172.29.0.1 - - [29/Mar/2022 17:04:30] "GET /welcome HTTP/1.1" 200 -
+2022-03-29 17:04:30,259 INFO werkzeug Thread-22 : 172.29.0.1 - - [29/Mar/2022 17:04:30] "[33mGET /welcome?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 404 -
+2022-03-29 17:04:30,264 INFO werkzeug Thread-25 : 172.29.0.1 - - [29/Mar/2022 17:04:30] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-03-29 17:04:30,272 INFO werkzeug Thread-24 : 172.29.0.1 - - [29/Mar/2022 17:04:30] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-03-29 17:04:30,274 INFO werkzeug Thread-23 : 172.29.0.1 - - [29/Mar/2022 17:04:30] "[36mGET /welcome?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-03-29 17:04:31,115 INFO werkzeug Thread-22 : 172.29.0.1 - - [29/Mar/2022 17:04:31] "GET /about HTTP/1.1" 200 -
+2022-03-29 17:16:47,852 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.0.2:5000 (Press CTRL+C to quit)
+2022-03-29 17:16:47,854 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-29 17:17:21,609 INFO werkzeug Thread-3 : 172.29.0.1 - - [29/Mar/2022 17:17:21] "GET / HTTP/1.1" 200 -
+2022-03-29 17:17:24,807 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:24] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-03-29 17:17:24,830 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:24] "GET /login HTTP/1.1" 200 -
+2022-03-29 17:17:27,996 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:27] "GET /register HTTP/1.1" 200 -
+2022-03-29 17:17:33,625 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:33] "GET /login HTTP/1.1" 200 -
+2022-03-29 17:17:34,208 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:34] "GET /register HTTP/1.1" 200 -
+2022-03-29 17:17:34,910 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:34] "GET /login HTTP/1.1" 200 -
+2022-03-29 17:17:35,508 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 17:17:35] "GET /register HTTP/1.1" 200 -
+2022-03-29 17:47:32,781 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.0.2:5000 (Press CTRL+C to quit)
+2022-03-29 17:47:32,784 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-29 17:48:00,112 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.0.2:5000 (Press CTRL+C to quit)
+2022-03-29 17:48:00,114 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-29 18:11:40,777 INFO werkzeug Thread-3 : 172.29.0.1 - - [29/Mar/2022 18:11:40] "GET / HTTP/1.1" 200 -
+2022-03-29 19:04:00,262 INFO werkzeug Thread-4 : 172.29.0.1 - - [29/Mar/2022 19:04:00] "GET / HTTP/1.1" 200 -
+2022-03-29 19:04:02,273 INFO werkzeug Thread-5 : 172.29.0.1 - - [29/Mar/2022 19:04:02] "GET /register HTTP/1.1" 200 -
+2022-03-29 19:04:11,973 INFO werkzeug Thread-5 : 172.29.0.1 - - [29/Mar/2022 19:04:11] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-03-29 19:04:11,995 INFO werkzeug Thread-5 : 172.29.0.1 - - [29/Mar/2022 19:04:11] "GET /login HTTP/1.1" 200 -
+2022-03-29 19:33:47,025 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.0.2:5000 (Press CTRL+C to quit)
+2022-03-29 19:33:47,027 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-29 19:35:24,555 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.29.0.2:5000 (Press CTRL+C to quit)
+2022-03-29 19:35:24,556 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-29 19:35:34,722 INFO werkzeug Thread-3 : 172.29.0.1 - - [29/Mar/2022 19:35:34] "GET / HTTP/1.1" 200 -
+2022-03-31 23:02:11,120 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.0.2:5000 (Press CTRL+C to quit)
+2022-03-31 23:02:11,122 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-31 23:14:11,553 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.0.2:5000 (Press CTRL+C to quit)
+2022-03-31 23:14:11,647 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-31 23:56:02,579 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-03-31 23:56:03,047 INFO werkzeug MainThread :  * Restarting with stat
+2022-03-31 23:58:56,832 INFO werkzeug Thread-3 : 172.24.0.1 - - [31/Mar/2022 23:58:56] "GET / HTTP/1.1" 200 -
+2022-03-31 23:59:03,315 INFO werkzeug Thread-4 : 172.24.0.1 - - [31/Mar/2022 23:59:03] "GET /register HTTP/1.1" 200 -
+2022-03-31 23:59:05,827 INFO werkzeug Thread-5 : 172.24.0.1 - - [31/Mar/2022 23:59:05] "GET /login HTTP/1.1" 200 -
+2022-03-31 23:59:07,614 INFO werkzeug Thread-5 : 172.24.0.1 - - [31/Mar/2022 23:59:07] "GET /register HTTP/1.1" 200 -
+2022-03-31 23:59:47,291 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-03-31 23:59:47,750 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:00:48,033 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:00:48,535 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:00:57,678 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:00:58,094 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:01:06,854 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 00:01:06] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-04-01 00:01:07,936 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 00:01:07] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:01:22,443 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 00:01:22] "GET /register HTTP/1.1" 200 -
+2022-04-01 00:02:32,421 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 00:02:32] "GET /register HTTP/1.1" 200 -
+2022-04-01 00:02:41,584 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 00:02:41] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-04-01 00:02:41,678 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 00:02:41] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:02:43,255 INFO werkzeug MainThread :  * Detected change in '/home/myuser/app/auth/forms/__init__.py', reloading
+2022-04-01 00:02:43,636 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:02:54,167 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 00:02:54] "GET /register HTTP/1.1" 200 -
+2022-04-01 00:03:24,182 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:03:24,579 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:03:58,311 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:03:58,783 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:05:38,218 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:05:38,639 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:06:10,685 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:06:11,092 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:07:15,246 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:07:15,633 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:08:24,542 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:08:24,941 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:09:45,135 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 00:09:45] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:09:52,083 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 00:09:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 00:09:52,385 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 00:09:52] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:10:40,363 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 00:10:40] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:10:42,115 INFO werkzeug MainThread :  * Detected change in '/home/myuser/app/auth/forms/__init__.py', reloading
+2022-04-01 00:10:42,513 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:10:51,535 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 00:10:51] "GET /register HTTP/1.1" 200 -
+2022-04-01 00:10:51,674 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 00:10:51] "GET /register HTTP/1.1" 200 -
+2022-04-01 00:17:52,404 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:17:52,860 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:18:30,626 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:18:30,990 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:22:50,295 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:22:50,664 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:24:23,178 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:24:23,578 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:24:33,095 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 00:24:33] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:24:33,525 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 00:24:33] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:24:46,206 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 00:24:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 00:24:46,484 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 00:24:46] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:26:00,178 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:26:00,559 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:26:22,330 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:26:22,721 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:28:02,888 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:28:03,286 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:34:04,109 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:34:04,503 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:37:37,991 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:37:38,430 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:38:01,619 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:38:02,067 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:38:44,750 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:38:45,160 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:39:31,372 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:39:31,859 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:40:35,270 INFO werkzeug MainThread :  * Detected change in '/home/myuser/app/__init__.py', reloading
+2022-04-01 00:40:35,693 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:41:12,699 INFO werkzeug MainThread :  * Detected change in '/home/myuser/app/__init__.py', reloading
+2022-04-01 00:41:13,277 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 00:44:55,616 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 00:44:56,017 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:34:12,552 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 03:34:12] "GET /login HTTP/1.1" 200 -
+2022-04-01 03:43:06,564 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 03:43:06,972 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:44:26,131 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 03:44:26] "GET /register HTTP/1.1" 200 -
+2022-04-01 03:46:54,645 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 03:46:55,064 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:48:57,183 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 03:48:57,529 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:51:51,319 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 03:51:51,768 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:53:45,029 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 03:53:45,395 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:54:43,523 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 03:54:43] "GET /login HTTP/1.1" 200 -
+2022-04-01 03:54:53,731 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 03:54:53] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 03:54:53,932 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 03:54:53] "GET /login HTTP/1.1" 200 -
+2022-04-01 03:57:24,142 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 03:57:24,515 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 03:58:18,634 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 03:58:18] "GET /register HTTP/1.1" 200 -
+2022-04-01 04:01:08,892 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:01:09,294 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:01:31,555 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:01:31,921 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:01:48,012 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:01:48,368 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:01:57,314 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:01:57] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-04-01 04:01:58,429 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:01:58] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:02:18,195 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:02:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:02:18,405 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:02:18] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:02:27,355 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:02:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:02:27,641 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:02:27] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:02:32,884 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:02:32] "GET /register HTTP/1.1" 200 -
+2022-04-01 04:02:54,843 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:02:54] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-04-01 04:02:55,166 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:02:55] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:03:02,971 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:03:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:03:03,478 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 04:03:03] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:03:26,083 INFO werkzeug Thread-8 : 172.24.0.1 - - [01/Apr/2022 04:03:26] "GET /account HTTP/1.1" 200 -
+2022-04-01 04:03:32,349 INFO werkzeug Thread-8 : 172.24.0.1 - - [01/Apr/2022 04:03:32] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:04:57,425 INFO werkzeug Thread-9 : 172.24.0.1 - - [01/Apr/2022 04:04:57] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:05:01,111 INFO app Thread-9 : Info level log
+2022-04-01 04:05:01,112 WARNING app Thread-9 : Warning level log
+2022-04-01 04:05:01,638 INFO werkzeug Thread-9 : 172.24.0.1 - - [01/Apr/2022 04:05:01] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:05:02,060 INFO werkzeug Thread-9 : 172.24.0.1 - - [01/Apr/2022 04:05:02] "GET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1" 200 -
+2022-04-01 04:05:13,663 INFO werkzeug Thread-10 : 172.24.0.1 - - [01/Apr/2022 04:05:13] "GET /users/1 HTTP/1.1" 200 -
+2022-04-01 04:05:19,996 INFO werkzeug Thread-11 : 172.24.0.1 - - [01/Apr/2022 04:05:19] "[32mPOST /users/1/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:05:20,012 INFO werkzeug Thread-11 : 172.24.0.1 - - [01/Apr/2022 04:05:20] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkZ57Q.9aTVpIM2H-nqXOIqa-rlITUFH3UGET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:05:28,110 INFO werkzeug Thread-12 : 172.24.0.1 - - [01/Apr/2022 04:05:28] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:05:32,061 INFO app Thread-12 : Info level log
+2022-04-01 04:05:32,062 WARNING app Thread-12 : Warning level log
+2022-04-01 04:05:32,086 INFO werkzeug Thread-12 : 172.24.0.1 - - [01/Apr/2022 04:05:32] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:05:32,481 INFO werkzeug Thread-12 : 172.24.0.1 - - [01/Apr/2022 04:05:32] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:05:43,239 INFO werkzeug Thread-13 : 172.24.0.1 - - [01/Apr/2022 04:05:43] "[32mPOST /users/3/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:05:43,259 INFO werkzeug Thread-13 : 172.24.0.1 - - [01/Apr/2022 04:05:43] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkZ6DA.JWJqa1AdpsghyBULASS61dMuK2YGET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:05:49,822 INFO werkzeug Thread-14 : 172.24.0.1 - - [01/Apr/2022 04:05:49] "GET / HTTP/1.1" 200 -
+2022-04-01 04:05:52,694 INFO werkzeug Thread-14 : 172.24.0.1 - - [01/Apr/2022 04:05:52] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:05:54,740 INFO app Thread-15 : Info level log
+2022-04-01 04:05:54,741 WARNING app Thread-15 : Warning level log
+2022-04-01 04:05:54,767 INFO werkzeug Thread-15 : 172.24.0.1 - - [01/Apr/2022 04:05:54] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:05:55,193 INFO werkzeug Thread-15 : 172.24.0.1 - - [01/Apr/2022 04:05:55] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:06:40,576 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:06:40,982 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:07:52,332 INFO app Thread-3 : Info level log
+2022-04-01 04:07:52,333 WARNING app Thread-3 : Warning level log
+2022-04-01 04:07:54,058 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:07:54] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:07:54,848 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:07:54] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:07:57,429 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:07:57,790 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:08:42,772 INFO app Thread-3 : Info level log
+2022-04-01 04:08:42,778 WARNING app Thread-3 : Warning level log
+2022-04-01 04:08:44,410 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:08:44] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:08:45,092 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:08:45] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:08:50,316 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:08:50] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:08:50,391 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:08:50] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkZ6zA.tlmAPeKHgzbtVhvGaYHC1aQ9OO8GET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:08:56,064 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:08:56] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:08:59,402 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:08:59] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-01 04:08:59,599 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:08:59] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:09:01,691 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:09:01] "GET /register HTTP/1.1" 200 -
+2022-04-01 04:09:17,150 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:09:17] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-04-01 04:09:17,292 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:09:17] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:10:40,626 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:10:41,040 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:10:51,730 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:10:51] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:10:55,580 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:10:55] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:10:58,906 INFO app Thread-3 : Info level log
+2022-04-01 04:10:58,907 WARNING app Thread-3 : Warning level log
+2022-04-01 04:10:59,535 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:10:59] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:10:59,986 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:10:59] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:11:02,801 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:11:02] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:11:02,834 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:11:02] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkZ7Uw.Wu5x_XfvjBJ-F41G07N-M9Yut1oGET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:11:06,242 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:11:06] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:11:09,160 INFO app Thread-5 : Info level log
+2022-04-01 04:11:09,163 WARNING app Thread-5 : Warning level log
+2022-04-01 04:11:09,229 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:11:09] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:11:09,723 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:11:09] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:12:12,000 INFO app Thread-6 : Info level log
+2022-04-01 04:12:12,001 WARNING app Thread-6 : Warning level log
+2022-04-01 04:12:12,033 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:12:12] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:12:12,468 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:12:12] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:12:15,635 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 04:12:15] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:12:15,656 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 04:12:15] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkZ7nA.32gr3--Z_R0P4Hw8WqOHdYWFhiQGET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:12:16,429 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:12:16,791 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:12:25,718 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:12:25] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:12:46,082 INFO app Thread-4 : Info level log
+2022-04-01 04:12:46,086 WARNING app Thread-4 : Warning level log
+2022-04-01 04:12:47,345 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:12:47] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:12:47,983 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:12:47] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:13:41,990 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:13:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-01 04:13:42,948 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:13:42] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:17:19,769 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:17:20,145 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:17:42,841 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:17:42] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:17:44,195 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:17:44] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:17:47,208 INFO app Thread-4 : Info level log
+2022-04-01 04:17:47,271 WARNING app Thread-4 : Warning level log
+2022-04-01 04:17:48,156 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:17:48] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:17:48,510 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:17:48] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:18:07,630 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:18:07] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:18:07,654 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:18:07] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkZ87A.kMrP82m2FckeSvogtUFhtb2bx80GET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:18:09,467 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:18:09,837 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:18:16,659 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:18:16] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:18:23,766 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:18:23] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-01 04:18:24,412 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:18:24] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:18:28,679 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:18:28] "GET /register HTTP/1.1" 200 -
+2022-04-01 04:18:50,400 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:18:50] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+2022-04-01 04:18:50,644 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:18:50] "GET /login?next=%2Fdashboard HTTP/1.1" 200 -
+2022-04-01 04:20:45,328 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:20:45,734 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:21:41,966 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:21:42,353 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:23:13,751 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:23:14,102 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:23:18,824 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:23:18] "[32mPOST /login?next=%2Fdashboard HTTP/1.1[0m" 302 -
+2022-04-01 04:23:20,045 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:23:20] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:23:24,724 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:23:24] "GET /about HTTP/1.1" 200 -
+2022-04-01 04:23:32,282 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:23:32] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:24:33,211 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:24:33,581 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:25:57,607 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:25:57,989 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:28:08,020 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:28:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-01 04:28:09,025 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:28:09] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:28:11,076 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:28:11,416 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:28:19,477 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:28:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:28:20,748 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:28:20] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:29:21,527 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:29:21,907 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:29:28,986 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:29:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:29:30,376 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:29:30] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:30:23,934 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:30:24,296 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:33:03,847 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:33:03] "GET /register HTTP/1.1" 200 -
+2022-04-01 04:33:15,976 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:33:15] "[32mPOST /register HTTP/1.1[0m" 302 -
+2022-04-01 04:33:16,329 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:33:16] "GET /login HTTP/1.1" 200 -
+2022-04-01 04:37:02,088 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:37:02,446 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:47:21,153 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:47:21,511 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:48:35,971 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:48:36,338 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:55:12,436 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:55:12,772 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:56:45,073 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:56:45,432 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:57:35,136 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 04:57:35,493 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 04:57:41,597 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:57:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 04:57:43,448 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:57:43] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:57:47,462 INFO app Thread-3 : Info level log
+2022-04-01 04:57:47,469 WARNING app Thread-3 : Warning level log
+2022-04-01 04:57:48,394 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:57:48] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:57:49,009 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 04:57:49] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:57:52,101 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:57:52] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:57:52,140 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:57:52] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkaGTA.ncCjywNjhQivdqaqUp5pMD25VjUGET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:57:55,867 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:57:55] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 04:57:58,012 INFO app Thread-4 : Info level log
+2022-04-01 04:57:58,030 WARNING app Thread-4 : Warning level log
+2022-04-01 04:57:58,199 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:57:58] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:57:58,565 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 04:57:58] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:59:14,504 INFO app Thread-5 : Info level log
+2022-04-01 04:59:14,507 WARNING app Thread-5 : Warning level log
+2022-04-01 04:59:14,659 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:59:14] "GET /users HTTP/1.1" 200 -
+2022-04-01 04:59:15,142 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 04:59:15] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 04:59:17,185 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:59:17] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 04:59:17,246 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 04:59:17] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkaGog.TrDRBZFW43i0DiP88wA3hH2FHggGET /users HTTP/1.1[0m" 405 -
+2022-04-01 04:59:20,783 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 04:59:20] "GET /dashboard HTTP/1.1" 200 -
+2022-04-01 05:00:10,118 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 05:00:10,524 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 05:00:17,958 INFO app Thread-3 : Info level log
+2022-04-01 05:00:17,960 WARNING app Thread-3 : Warning level log
+2022-04-01 05:00:19,523 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 05:00:19] "GET /users HTTP/1.1" 200 -
+2022-04-01 05:00:20,080 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 05:00:20] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 05:01:03,284 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 05:01:03,671 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 05:59:08,400 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 05:59:08,756 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 05:59:45,186 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-01 05:59:45,576 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-01 06:00:31,982 INFO app Thread-3 : Info level log
+2022-04-01 06:00:31,983 WARNING app Thread-3 : Warning level log
+2022-04-01 06:00:33,577 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 06:00:33] "GET /users HTTP/1.1" 200 -
+2022-04-01 06:00:34,110 INFO werkzeug Thread-3 : 172.24.0.1 - - [01/Apr/2022 06:00:34] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 06:00:37,068 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 06:00:37] "[32mPOST /users/7/delete HTTP/1.1[0m" 302 -
+2022-04-01 06:00:37,162 INFO werkzeug Thread-4 : 172.24.0.1 - - [01/Apr/2022 06:00:37] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkaVAQ.rurnQmhgveri_QaZFizDuAR8xa0GET /users HTTP/1.1[0m" 405 -
+2022-04-01 06:00:58,231 INFO app Thread-5 : Info level log
+2022-04-01 06:00:58,233 WARNING app Thread-5 : Warning level log
+2022-04-01 06:00:58,328 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 06:00:58] "GET /users HTTP/1.1" 200 -
+2022-04-01 06:00:58,813 INFO werkzeug Thread-5 : 172.24.0.1 - - [01/Apr/2022 06:00:58] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-01 06:01:03,695 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 06:01:03] "[32mPOST /users/6/delete HTTP/1.1[0m" 302 -
+2022-04-01 06:01:03,860 INFO werkzeug Thread-6 : 172.24.0.1 - - [01/Apr/2022 06:01:03] "[31m[1mcsrf_token=IjRjOWI5M2E4MTFkYTU4MzliZTQ2YTg5ZDkyMzA3YmRmZTRiM2U0NmUi.YkaVGg.dV7yc0XRW3I9__FkzMBFnHiWceoGET /users HTTP/1.1[0m" 405 -
+2022-04-01 06:01:12,248 INFO app Thread-7 : Info level log
+2022-04-01 06:01:12,249 WARNING app Thread-7 : Warning level log
+2022-04-01 06:01:12,285 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 06:01:12] "GET /users HTTP/1.1" 200 -
+2022-04-01 06:01:12,733 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 06:01:12] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
+2022-04-02 13:56:36,303 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
+2022-04-02 13:56:36,699 INFO werkzeug MainThread :  * Restarting with stat

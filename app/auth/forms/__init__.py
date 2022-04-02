@@ -21,7 +21,7 @@ class register_form(FlaskForm):
 
     ], description="You need to signup with an email")
 
-    password = PasswordField('Create Password', [
+    password = PasswordField('Create Password', [validators.length(min=6, max=35),
         validators.DataRequired(),
         validators.EqualTo('confirm', message='Passwords must match'),
 
@@ -34,6 +34,12 @@ class profile_form(FlaskForm):
     about = TextAreaField('About', [validators.length(min=6, max=300)],
                           description="Please add information about yourself")
 
+    submit = SubmitField()
+
+class user_edit_form(FlaskForm):
+    about = TextAreaField('About', [validators.length(min=6, max=300)],
+                          description="Please add information about yourself")
+    is_admin = BooleanField('Admin', render_kw={'value':'1'})
     submit = SubmitField()
 
 
