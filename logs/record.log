@@ -399,3 +399,10 @@
 2022-04-01 06:01:12,733 INFO werkzeug Thread-7 : 172.24.0.1 - - [01/Apr/2022 06:01:12] "[36mGET /bootstrap/static/icons/bootstrap-icons.svg HTTP/1.1[0m" 304 -
 2022-04-02 13:56:36,303 INFO werkzeug MainThread :  * Detected change in '/home/myuser/tests/auth_test.py', reloading
 2022-04-02 13:56:36,699 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-02 15:35:38,418 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000 (Press CTRL+C to quit)
+2022-04-02 15:35:38,419 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-02 15:43:20,621 INFO werkzeug Thread-3 : 172.18.0.1 - - [02/Apr/2022 15:43:20] "GET / HTTP/1.1" 200 -
+2022-04-02 15:43:22,655 INFO werkzeug Thread-3 : 172.18.0.1 - - [02/Apr/2022 15:43:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
